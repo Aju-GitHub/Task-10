@@ -1,4 +1,4 @@
-# Task 10
+# Cybesecurity Task 10
 
 This project demonstrates an interactive web technique implemented as part of a cybersecurity-related assignment. The goal was to create a webpage with an initially invisible image that appears only when a user’s pointer hovers over the image’s location. This technique can be useful in cybersecurity education or awareness materials to reveal sensitive information or visual cues only upon intentional interaction.
 
