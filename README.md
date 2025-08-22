@@ -6,6 +6,8 @@ This project demonstrates an interactive web technique implemented as part of a 
 
 Task-10/
 
+/- ENIAC invisible Image Hovering Web page - Result in video file
+
 /- README - Documentation
 
 /- index.html - FUll code
@@ -15,8 +17,6 @@ Task-10/
 /- styles.css - Styling sheet code
 
 /- submit.html - HTML submission code
-
-/- ENIAC invisible Image Hovering Web page - Result in video file
 
 # Features
 
